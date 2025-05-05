@@ -1,6 +1,6 @@
 # DynamicRythms
 
-DynamicRythms is a data-driven project aimed at analyzing rhythmic patterns within datasets. It encompasses exploratory data analysis (EDA), modeling techniques, and legacy code to facilitate comprehensive rhythm analysis.
+DynamicRythms is a data-centric research project that investigates the predictive relationship between rare weather events and power outages. This repository contains all the essential code and resources for training and evaluating deep learning and gradient boosting models to empirically validate this correlation.
 
 ## Project Structure
 
